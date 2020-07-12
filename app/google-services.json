@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132290735846",
+    "firebase_url": "https://programovil-20ef6.firebaseio.com",
+    "project_id": "programovil-20ef6",
+    "storage_bucket": "programovil-20ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132290735846:android:79361e379ea028e67b1527",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132290735846-c3evf9707cstnbcqleccorchmpjro0jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8EjbdQgnIW-sXYEZYr6cNpvEMdZjw5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132290735846-c3evf9707cstnbcqleccorchmpjro0jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
